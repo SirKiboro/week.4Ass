@@ -1,0 +1,23 @@
+/*styles.css*/
+h1{
+    text-align:center;
+}
+.form-group{
+    color:aqua;
+    text-align:center;
+    
+}
+*{
+    background-color:lightblue;
+    color:black;
+}
+button{
+    color:black;
+    text-align:center;
+    justify-content:centre;
+}
+.button{
+    text-align:center;
+    color:aquamarine;
+}
+
